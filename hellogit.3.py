@@ -1,1 +1,1 @@
-print("vamos hacer un conflicto")
+print("ya estoy haciendo mejores practicas ")
