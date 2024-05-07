@@ -1,3 +1,3 @@
-print("vamos a ver que va pasar ahora ")
-print ("estoy tratando de realizar un conflicto")
-print ("bi he podido realizar el conflicto ")
+print("sapo ")
+print ("no quierop ni mierda" )
+print ("borro todo ")
